@@ -2,13 +2,13 @@
 ### Welcome to the repository folder for the ipyvizzu essentials video tutorial series
 ## We're thrilled to have you here with us! :blush:
 
-Here you'll find a collection of useful resources related to the tutorial, such as the ipyvizzu notebook or the dataset used throughout the session, and some helpful links.
+Here you'll find a collection of useful resources related to the tutorial, such as the ipyvizzu notebook or the dataset used throughout the session and some helpful links.
 
 ### Useful links
 - ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ 
 - ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu - :star2:'s are very much appreciated.
 
-### The tutorial episodes
+### Episodes
 - [#1 How to Create Your First Animated Chart](https://www.youtube.com/watch?v=XTixF1cVBWg&list=PL85VZJGOfn16HMfBPIiDsqd18tIt3Whte&index=1&t=2s) 
 
 ### Come join our community!
