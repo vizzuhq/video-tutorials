@@ -1,2 +1,4 @@
-# video-tutorials
-Repo for Vizzu video tutorials.
+## Vizzu video tutorial materials.
+
+Video tutorials:
+- [ipyvizzu essentials](ipyvizzu/ipyvizzu-essentials/README.md)
