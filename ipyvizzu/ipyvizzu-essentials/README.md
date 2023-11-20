@@ -13,6 +13,8 @@ Here you'll find a collection of useful resources related to the tutorial, such 
 - [#2 How to Change Axes, Add Title & Tooltips](https://youtu.be/LuubVt0-2p4)
 - [#3 Data Aggregation](https://youtu.be/BUk6DosJwgA)
 - [#4 How to Change Your Chart's Geometry](https://youtu.be/W3mnXcSPpDs)
+- [#5 About the Channels & Legend](https://youtu.be/VKd-QWboVwM?si=9RjsbE8lNdH1dbLE)
+- [#6 How to Group or Stack Chart Elements](https://youtu.be/cJiwZVndZOg?si=ibchoADv4alFcGvt)
 
 ### Come join our community!
 Lastly, we'd like to invite you to join our community on Slack. We're always eager to welcome new members and help them get started, answer any questions you may have, and provide feedback and support for your projects and contributions. Here's the invite link: https://join.slack.com/t/vizzu-community/shared_invite/zt-w2nqhq44-2CCWL4o7qn2Ns1EFSf9kEg
